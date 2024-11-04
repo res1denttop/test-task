@@ -1,8 +1,8 @@
-# Payment Service
+# Test Service
 
 ## Installation
 ```shell
-git clone
+git clone git@github.com:res1denttop/test-task.git
 ```
 ```shell
 # Create local env file and set DATABASE_URL
